@@ -1,3 +1,3 @@
-module github.com/BanMing/beegolearn
+module beegolearn
 
 require github.com/astaxie/beego v1.11.1 // indirect
