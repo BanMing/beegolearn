@@ -75,7 +75,7 @@
 
 <body>
   <header>
-    <h1 class="logo">Welcome to Beego  ssasd</h1>
+    <h1 class="logo">Welcome to Beego</h1>
     <div class="description">
       Beego is a simple & powerful Go web framework which is inspired by tornado and sinatra.
     </div>
@@ -86,8 +86,6 @@
       <a href="http://{{.Website}}">{{.Website}}</a> /
       Contact me:
       <a class="email" href="mailto:{{.Email}}">{{.Email}}</a>
-      Name:
-      <a class="name" href="Name:{{.Name}}">{{.Name}}</a>
     </div>
   </footer>
   <div class="backdrop"></div>
